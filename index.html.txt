@@ -7,6 +7,6 @@
 </head>
 <body>
     <h1>Hello World</h1>
-    <p>Your favorite quote here</p>
+    <p>a man that doesn't spend time with his family can never be a real man</p>
 </body>
 </html>
